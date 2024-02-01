@@ -1,0 +1,2 @@
+# practicerepo
+Fullstack Java training 
